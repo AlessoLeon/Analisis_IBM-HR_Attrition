@@ -1,6 +1,6 @@
-### **📊 IBM HR Analytics: Employee Attrition Analysis**
+# **📊 IBM HR Analytics: Employee Attrition Analysis**
 
-##### 📌 Descripción del Proyecto
+#### 📌 Descripción del Proyecto
 
 La rotación de empleados representa uno de los mayores desafíos para las organizaciones, ya que impacta directamente en los costes, la productividad y la retención del talento.
 
@@ -8,16 +8,18 @@ En este proyecto se realizó un análisis completo del conjunto de datos "IBM HR
 
 El análisis fue desarrollado utilizando Python para la limpieza, transformación y exploración de los datos, mientras que Power BI se utilizó para la construcción de un dashboard interactivo orientado al análisis ejecutivo.
 
-##### 🎯 Objetivos del Proyecto
+---
+
+#### 🎯 Objetivos del Proyecto
 - Analizar los factores relacionados con la rotación de empleados.
 - Identificar perfiles con mayor riesgo de abandono.
 - Detectar patrones asociados a la satisfacción laboral.
 - Evaluar el impacto del salario, edad, horas extras y experiencia laboral.
 - Construir visualizaciones que faciliten la toma de decisiones basadas en datos.
 
-![Diagrama1](../Images/distribucion_de_edades_segun_su_rotacion.png)
+![Diagrama1](images/distribucion_de_edades_segun_su_rotacion.png)
 
-##### 🛠️ Herramientas Utilizadas
+#### 🛠️ Herramientas Utilizadas
 - Lenguajes y Librerías
 - Python
 - Pandas
@@ -25,17 +27,19 @@ El análisis fue desarrollado utilizando Python para la limpieza, transformació
 - Matplotlib
 - Seaborn
 
-##### 🎨 Visualización y BI
+#### 🎨 Visualización y BI
 - Power BI Desktop
 - DAX
 - Power Query
 
-##### 🔮 Entorno de Desarrollo
+#### 🔮 Entorno de Desarrollo
 - Jupyter Notebook
 - Git
 - GitHub
 
-##### 📂 Estructura del Proyecto
+---
+
+#### 📂 Estructura del Proyecto
 
 Proyecto 2 - Analisis de IBM (HR-Attrition)/\
 │\
@@ -64,11 +68,11 @@ Proyecto 2 - Analisis de IBM (HR-Attrition)/\
 ├── README.md\
 └── requirements.txt
 
-![Diagrama2](../Images/rate_rotacion_por_departamentos.png)
+![Diagrama2](images/rate_rotacion_por_departamentos.png)
+---
+### 🔍 Metodología del Proyecto
 
-#### 🔍 Metodología del Proyecto
-
-##### 1️⃣ Comprensión del Dataset
+#### 1️⃣ Comprensión del Dataset
 
 Se realizó una exploración inicial para comprender:
 
@@ -78,7 +82,7 @@ Se realizó una exploración inicial para comprender:
 - Calidad de los datos.
 - Valores faltantes y duplicados.
 
-##### 2️⃣ Limpieza y Preparación
+#### 2️⃣ Limpieza y Preparación
 
 Durante esta etapa se:
 
@@ -87,7 +91,7 @@ Durante esta etapa se:
 - Revisaron inconsistencias.
 - Prepararon los datos para el análisis exploratorio.
 
-##### 3️⃣ Análisis Exploratorio de Datos (EDA)
+#### 3️⃣ Análisis Exploratorio de Datos (EDA)
 
 Se estudiaron variables relevantes como:
 
@@ -105,11 +109,11 @@ y su relación con la variable objetivo:
 
 Attrition (Rotación de Personal) IBM
 
-##### 4️⃣ Visualización de Datos
+#### 4️⃣ Visualización de Datos
 
 Se desarrollaron gráficos para detectar patrones y tendencias relacionadas con la permanencia o abandono de empleados.
 
-##### 5️⃣ Dashboard Interactivo en Power BI
+#### 5️⃣ Dashboard Interactivo en Power BI
 
 Se creó un dashboard con filtros dinámicos que permite:
 
@@ -118,9 +122,9 @@ Se creó un dashboard con filtros dinámicos que permite:
 - Comparar variables demográficas.
 - Explorar indicadores de desempeño y permanencia.
 
-![Diagrama3](../Images/matriz_de_correlacion_var_numericas.png)
+![Diagrama3](images/matriz_de_correlacion_var_numericas.png)
 
-#### 📈 Principales Hallazgos
+### 📈 Principales Hallazgos
 
 Entre los hallazgos más relevantes del análisis se identificó que:
 
@@ -136,7 +140,7 @@ Entre los hallazgos más relevantes del análisis se identificó que:
 
 ---
 
-#### 📊 Dashboard en Power BI
+## 📊 Dashboard en Power BI
 
 **Indicadores Principales**
 - Total de Empleados
@@ -154,9 +158,9 @@ Entre los hallazgos más relevantes del análisis se identificó que:
 - Rotación por Estado Civil
 - Rotación por Nivel Salarial
 
-![Dashboard_PowerBI](../dashboard/HHRR-ATTRITIO-ANALYSYS/Images/IBM-1-Portada.png)
+![Dashboard_PowerBI](dashboard/HHRR-ATTRITIO-ANALYSYS/Images/IBM-1-Portada.png)
 
-#### 💼 Competencias Demostradas
+### 💼 Competencias Demostradas
 - Data Cleaning
 - Data Wrangling
 - Exploratory Data Analysis (EDA)
@@ -170,7 +174,7 @@ Entre los hallazgos más relevantes del análisis se identificó que:
 
 ---
 
-#### 👨‍💻 Autor:
+## 👨‍💻 Autor:
 **Alejandro G. Araujo L.**
 
 📍 Data Analytics Portfolio Project
