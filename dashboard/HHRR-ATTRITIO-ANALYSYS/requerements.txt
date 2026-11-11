@@ -1,0 +1,12 @@
+Herramientas utilizadas y/o requeridas:
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Power BI
+- DAX
+- Excel
+- SQL
