@@ -17,7 +17,7 @@ En este proyecto se realizó un análisis completo del conjunto de datos "IBM HR
 
 El análisis fue desarrollado utilizando Python para la limpieza, transformación y exploración de los datos, mientras que Power BI se utilizó para la construcción de un dashboard interactivo orientado al análisis ejecutivo.
 
-![Portada](../Images/IBM-1-Portada.png)
+![Portada](Images/IBM-1-Portada.png)
 
 ##### 🛠️ Herramientas Utilizadas
 - Lenguajes y Librerías
@@ -64,7 +64,7 @@ Proyecto 2 - Analisis de IBM (HR-Attrition)\dashboard\HHRR-ATTRITIO-ANALYSYS\
 ├── README.md\
 └── requirements.txt
 
-![Diagrama1](../Images/IBM-2-Rotacion_del_Personal.png)
+![Diagrama1](Images/IBM-2-Rotacion_del_Personal.png)
 
 #### 🔍 Metodología del Proyecto
 
@@ -118,7 +118,7 @@ Se creó un dashboard con filtros dinámicos que permite:
 - Comparar variables demográficas.
 - Explorar indicadores de desempeño y permanencia.
 
-![Diagrama5](../Images/IBM-5-Salarios_y_Carreras.png)
+![Diagrama5](Images/IBM-5-Salarios_y_Carreras.png)
 
 #### 📈 Principales Hallazgos
 
@@ -166,7 +166,7 @@ Entre los hallazgos más relevantes del análisis se identificó que:
 - DAX
 - Git & GitHub
 
-![Diagrama6](../Images/IBM-6-Insights_y_Recomendaciones.png)
+![Diagrama6](Images/IBM-6-Insights_y_Recomendaciones.png)
 
 ---
 
