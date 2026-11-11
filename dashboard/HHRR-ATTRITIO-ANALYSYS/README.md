@@ -166,7 +166,7 @@ Entre los hallazgos más relevantes del análisis se identificó que:
 - DAX
 - Git & GitHub
 
-![Diagrama6](Images/IBM-6-Insights y Recomendaciones.png)
+![Diagrama6](Images/IBM-6-Insights_y_Recomendaciones.png)
 
 ---
 
